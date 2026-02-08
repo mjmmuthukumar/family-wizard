@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/family-wizard/static/css/main.43441dd7.css",
-    "main.js": "/family-wizard/static/js/main.a8775d60.js",
+    "main.js": "/family-wizard/static/js/main.d3180fad.js",
     "index.html": "/family-wizard/index.html",
     "main.43441dd7.css.map": "/family-wizard/static/css/main.43441dd7.css.map",
-    "main.a8775d60.js.map": "/family-wizard/static/js/main.a8775d60.js.map"
+    "main.d3180fad.js.map": "/family-wizard/static/js/main.d3180fad.js.map"
   },
   "entrypoints": [
     "static/css/main.43441dd7.css",
-    "static/js/main.a8775d60.js"
+    "static/js/main.d3180fad.js"
   ]
 }
